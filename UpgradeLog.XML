@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="paint_text">
+</Property><Property Name="解决方案文件" Value="C:\Users\Florent\Downloads\_074201\windows小画板\画图板\paint_text.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Florent\Downloads\_074201\windows小画板\画图板\paint_text.suo">
+</Property><Property Name="Date" Value="2017年11月27日">
+</Property><Property Name="Time" Value="16:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="paint_text.sln" Description="文件已成功备份为 C:\Users\Florent\Downloads\_074201\windows小画板\画图板\paint_text.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="paint_text.suo" Description="文件已成功备份为 C:\Users\Florent\Downloads\_074201\windows小画板\画图板\paint_text.suo.old">
+</Event><Event ErrorLevel="0" Project="paint_text" Source="paint_text\paint_text.vcproj" Description="Converting project file 'C:\Users\Florent\Downloads\_074201\windows小画板\画图板\paint_text\paint_text.vcproj'.">
+</Event><Event ErrorLevel="1" Project="paint_text" Source="paint_text\paint_text.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="paint_text" Source="paint_text\paint_text.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="paint_text" Source="paint_text\paint_text.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="paint_text" Source="paint_text\paint_text.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="paint_text" Source="paint_text\paint_text.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="paint_text" Source="paint_text\paint_text.vcproj" Description="Done converting to new project file 'C:\Users\Florent\Downloads\_074201\windows小画板\画图板\paint_text\paint_text.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="paint_text" Source="paint_text\paint_text.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="paint_text.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="paint_text.sln" Description="Converted">
+</Event></UpgradeLog>
