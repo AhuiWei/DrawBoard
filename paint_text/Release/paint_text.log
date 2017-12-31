@@ -1,0 +1,234 @@
+﻿生成启动时间为 2017/12/31 16:24:43。
+     1>项目“D:\软件\C和C++代码\画图板V3\paint_text\paint_text.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\paint_text.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\软件\visualstudio\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt paint.cpp
+         paint.cpp
+     1>paint.cpp(484): warning C4018: “<”: 有符号/无符号不匹配
+     1>paint.cpp(691): warning C4018: “<”: 有符号/无符号不匹配
+     1>paint.cpp(753): warning C4018: “<”: 有符号/无符号不匹配
+     1>paint.cpp(768): warning C4018: “<”: 有符号/无符号不匹配
+     1>paint.cpp(944): warning C4018: “<”: 有符号/无符号不匹配
+     1>paint.cpp(1041): warning C4018: “<”: 有符号/无符号不匹配
+     1>paint.cpp(1080): warning C4018: “<”: 有符号/无符号不匹配
+     1>paint.cpp(1098): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1098): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1098): warning C4018: “<”: 有符号/无符号不匹配
+     1>paint.cpp(1098): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1100): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1102): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1105): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1106): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1108): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1108): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1110): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1110): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1111): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1111): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1114): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1115): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1117): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1117): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1120): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1120): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1121): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1121): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1124): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1125): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1127): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1128): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1128): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1131): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1131): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1132): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1132): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1135): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1136): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1138): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1138): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1141): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1141): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1142): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1142): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1145): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1146): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1148): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1149): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1149): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1152): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1152): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1153): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1153): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1156): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1157): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1159): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1159): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1162): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1162): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1173): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1173): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1173): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1177): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1177): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1178): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1178): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1183): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1183): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1183): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1187): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1187): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1188): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+     1>paint.cpp(1188): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 paint.cpp(1080) : 忽略“i”的定义
+                 paint.cpp(152) : 使用“i”的定义
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\paint.res" paint.rc 
+       Link:
+         d:\软件\visualstudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\软件\C和C++代码\画图板V3\Release\paint_text.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\paint_text.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\软件\C和C++代码\画图板V3\Release\paint_text.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\软件\C和C++代码\画图板V3\Release\paint_text.lib" /MACHINE:X86 Release\paint.res
+         Release\paint.obj
+         正在生成代码
+         已完成代码的生成
+         paint_text.vcxproj -> D:\软件\C和C++代码\画图板V3\Release\paint_text.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\软件\C和C++代码\画图板V3\Release\paint_text.exe;#1" /manifest Release\paint_text.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\paint_text.unsuccessfulbuild”。
+         正在对“Release\paint_text.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\软件\C和C++代码\画图板V3\paint_text\paint_text.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.63

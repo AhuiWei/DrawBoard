@@ -1,0 +1,130 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_TITLE               ICON                    "paint.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+PAINT MENU
+BEGIN
+    POPUP "文件(&F)"
+    BEGIN
+        MENUITEM "新建(&N)",                      IDM_FILE_NEW
+        MENUITEM "打开(&O)",                      IDM_FILE_OPEN
+        MENUITEM "保存(&S)",                      IDM_FILE_SAVE
+        MENUITEM SEPARATOR
+        MENUITEM "退出(&X)",                      IDM_APP_EXIT
+    END
+    POPUP "编辑(&E)"
+    BEGIN
+        MENUITEM "选择对象(&C)",                    IDM_EDIT_CHOOSE
+        MENUITEM SEPARATOR
+        MENUITEM "移动对象(&M)",                    IDM_EDIT_MOVE
+        MENUITEM SEPARATOR
+        MENUITEM "删除(&D)",                      IDM_EDIT_DELETE
+        MENUITEM SEPARATOR
+        MENUITEM "放大(&I)",                      IDM_EDIT_ZOOMIN
+        MENUITEM "缩小(&O)",                      IDM_EDIT_ZOOMOUT
+        MENUITEM SEPARATOR
+        POPUP "设置线条粗细(&W)"
+        BEGIN
+            MENUITEM "1",                           IDM_WIDE_ONE
+            MENUITEM "2",                           IDM_WIDE_TWO
+            MENUITEM "3",                           IDM_WIDE_THREE
+        END
+    END
+    POPUP "画图工具(&T)"
+    BEGIN
+        MENUITEM "直线(&L)",                      IDM_TOOL_LINE
+        POPUP "椭圆(&E)"
+        BEGIN
+            MENUITEM "空心椭圆(&E)",                    IDM_TOOL_ELLIPSE
+            MENUITEM "填充的椭圆(&F)",                   IDM_TOOL_ELLIPSE1
+        END
+        POPUP "矩形(&R)"
+        BEGIN
+            MENUITEM "空心矩形(&R)",                    IDM_TOOL_RECT
+            MENUITEM "填充的矩形(&F)",                   IDM_TOOL_RECT1
+        END
+        MENUITEM "多边形(&P)",                     IDM_TOOL_POLYGON
+    END
+    POPUP "设置颜色(&C)"
+    BEGIN
+        MENUITEM "设置边框颜色...(&C)",               IDM_EDIT_SETCOLOR
+        MENUITEM "设置填充颜色...(&F)",               IDM_EDIT_SETCOLOR_FULL
+    END
+    POPUP "帮助(&H)"
+    BEGIN
+        MENUITEM "关于(&A)...",                   IDM_HELP_ABOUT
+    END
+END
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
